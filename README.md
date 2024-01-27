@@ -39,5 +39,21 @@ Substitua o usuário lbguilherme pelo seu usuário no GitHub.
 
 ### Entre em contato comigo! 📭
 <div>
-<a href="https://www.linkedin.com/in/kayky-de-souza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a  class="linkedin-icon" href="https://www.linkedin.com/in/kayky-de-souza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+<style>
+
+  	@keyframes blink {
+      0%, 50%, 100% {
+        opacity: 1;
+      }
+      25%, 75% {
+        opacity: 0.6;
+      }
+    }
+
+    .linkedin-icon {
+      animation: blink 5s infinite;
+    }
+
+</style>
