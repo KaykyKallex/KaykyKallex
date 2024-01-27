@@ -1,9 +1,8 @@
 
-💻 Eu sou um desenvolvedor [Front-End]
+### 💻 Eu sou um desenvolvedor [Front-End]
 
-### Eu já trabalhei com... 🔧
 
-**Tecnologias e Ferramentas**
+### **Tecnologias e Ferramentas**
 
 <!-- (Aqui você pode adicionar tecnologias que aprendeu no curso, já listamos algumas delas, e outras que já domina)) -->
 
@@ -13,7 +12,7 @@
 ![Git](https://img.shields.io/badge/git-20232A?logo=git&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/github-20232A?logo=github&logoColor=white&style=for-the-badge)
 ![Figma](https://img.shields.io/badge/figma-20232A?logo=figma&logoColor=white&style=for-the-badge)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/vscode-20232A?logo=vscode&logoColor=white&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-20232A?logo=mysql&logoColor=white&style=for-the-badge)
 ![C#](https://img.shields.io/badge/csharp-20232A?logo=csharp&logoColor=white&style=for-the-badge)
 
