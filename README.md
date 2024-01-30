@@ -15,6 +15,8 @@
 ![VS Code](https://img.shields.io/badge/vscode-20232A?logo=vscode&logoColor=white&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-20232A?logo=mysql&logoColor=white&style=for-the-badge)
 ![C#](https://img.shields.io/badge/csharp-20232A?logo=csharp&logoColor=white&style=for-the-badge)
+![NodeJS](https://img.shields.io/badge/nodejs-20232A?logo=nodejs&logoColor=white&style=for-the-badge)
+![Java](https://img.shields.io/badge/java-20232A?logo=java&logoColor=white&style=for-the-badge)
 
 <!-- (Já colocar tecnologias do On Demand que aprende no curso)) -->
 
@@ -22,10 +24,8 @@
 <!-- (Aqui você pode adicionar tecnologias que está estudando, inclusive para aumentar essa lista você listamos algumas das tecnologias ensinadas na nossa [Assinatura On Demand](https://cubos.academy/cubosondemand)) -->
 
 ![React](https://img.shields.io/badge/react-20232A?logo=react&logoColor=white&style=for-the-badge)
-![NodeJS](https://img.shields.io/badge/nodejs-20232A?logo=nodejs&logoColor=white&style=for-the-badge)
-![Java](https://img.shields.io/badge/java-20232A?logo=java&logoColor=white&style=for-the-badge)
 ![Angular](https://img.shields.io/badge/angular-20232A?logo=angular&logoColor=white&style=for-the-badge)
-
+![TypeScript](https://img.shields.io/badge/typescript-20232A?logo=typescript&logoColor=white&style=for-the-badge)
 <!--
 Substitua o usuário lbguilherme pelo seu usuário no GitHub.
 -->
