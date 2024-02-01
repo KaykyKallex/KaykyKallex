@@ -1,5 +1,5 @@
 
-### 💻 Sou desenvolvedor Front-End
+### 💻 <h1 align="center">Sou desenvolvedor Front-End</h1>
 
 
 ### **Tecnologias e Ferramentas**
