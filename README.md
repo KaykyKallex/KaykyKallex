@@ -22,11 +22,11 @@
 
 ### Eu estou estudando...
 
-<div align="center">
+
 ![React](https://img.shields.io/badge/react-20232A?logo=react&logoColor=white&style=for-the-badge)
 ![Angular](https://img.shields.io/badge/angular-20232A?logo=angular&logoColor=white&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/typescript-20232A?logo=typescript&logoColor=white&style=for-the-badge)
-</div>
+
 
 ### <h1 align="center">GitHub Stats ⚡</h1>
 <div align="center">
