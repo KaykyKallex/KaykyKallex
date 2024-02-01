@@ -22,11 +22,11 @@
 
 ### Eu estou estudando...
 
-
+<div align="center">
 ![React](https://img.shields.io/badge/react-20232A?logo=react&logoColor=white&style=for-the-badge)
 ![Angular](https://img.shields.io/badge/angular-20232A?logo=angular&logoColor=white&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/typescript-20232A?logo=typescript&logoColor=white&style=for-the-badge)
-
+</div>
 
 ### <h1 align="center">GitHub Stats ⚡</h1>
 <div align="center">
@@ -35,7 +35,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaykyKallex&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
-### Entre em contato comigo! 📭
-<div>
+### <h1 align="center">Entre em contato comigo! 📭 </h1>
+<div align="center">
 <a  class="linkedin-icon" href="https://www.linkedin.com/in/kayky-de-souza/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
