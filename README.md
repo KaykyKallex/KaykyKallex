@@ -28,9 +28,8 @@
 ![TypeScript](https://img.shields.io/badge/typescript-20232A?logo=typescript&logoColor=white&style=for-the-badge)
 
 
-
+### <h1 align="center">GitHub Stats ⚡</h1>
 <div align="center">
-  ### GitHub Stats ⚡
 <a href="https://github.com/KaykyKallex">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaykyKallex&layout=compact&langs_count=7&theme=dark"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaykyKallex&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
